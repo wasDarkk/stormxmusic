@@ -22,7 +22,6 @@ ENV API_ID=21602850 \
     MONGO_DB_URI=mongodb+srv://Stormx:Darkboy336%401234@cluster0.jmjpvmg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 \
     LOGGER_ID=-1003188854281 \
     OWNER_ID=8306709243 \
-    STRING_SESSION=BQFJoiIAFPH8tazg7XnXXOSHydq1xtzH8862-t5e_5GhCqkfZf941KHuqtheyjXO9hKpfaHruXMTCHjHZEtBDwmMyM2Hc4EaTuG-p6c3RKdI3y4Dgw2wOlpNlswB5mooxm43KPQoNXXeyCtdxnUBg5ogwbyrSFQQ9DpID1HOKlRonKTjQRKTPMshtFgiqUXMRx1A7-JfeNPNFbyBDby66TUNdynbgaItmS0JnVjF2FUQMVQKYJvswbAgbcAELuQ0xsAqQ4E3DzAg1tikmag9OC83KYRVomT3EPs6y8w5JHnj2j2P0rUFpKYdNkizP9KTZLMoVqH-r3F3kR6Xs5gNWZy70CvhjAAAAAHo4-fxAA
-
+    STRING_SESSION=1BVtsOHUBu67gC39XHzZ6jqhjGgo_FoB01tzD-D6wsgkzYG960PqEG1uxS4PuqRRQg0_LsE2mphoV0-EWNTShZxg6-Zok_VUqOvx9Mks0fkFZIHGqMPuif8Kek__jbygo7Z5ukzATIl8eiq8ckxePpifCh85tbl5TlTWs-U6AsyyyVPUvkjXQobt1eRJmwOXfMPMF0cmMaGj4SGz2GAwx0W__154xl52IDHkwQBnDKbtRpy5OR_owKZfYoFCttjdv5k6E9GNu3vnxTMh5kQ7kMzlzg3pFzZ_5vecMz1mGCL34IxdmiEDkR3i0Z9VAawkYUzHiOLNhU8-GJUsAKjfJz7N9WGG1Hx4=
 # Run the bot
 CMD ["python3", "-m", "BrandrdXMusic"]
