@@ -18,7 +18,7 @@ RUN pip3 install --no-cache-dir --upgrade --requirement requirements.txt
 # ✅ Environment variables (same old bot token, new working session)
 ENV API_ID=21602850 \
     API_HASH=a8042c2f4a4c3016f74207c38faf1195 \
-    BOT_TOKEN=8159942066:AAG89caU4Zhh27JGlcKfeETxfIKD3cJjUrs \
+    BOT_TOKEN=7959421986:AAEHRgoFFP9Uw7Vrml72GROsIC-UFOOVKpc \
     MONGO_DB_URI=mongodb+srv://Stormx:Darkboy336%401234@cluster0.jmjpvmg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 \
     LOGGER_ID=-1003188854281 \
     OWNER_ID=8306709243 \
