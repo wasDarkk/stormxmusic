@@ -67,8 +67,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/BRANDEDKING8"),
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/BRANDED_WORLD"),
+            InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/THEDARKAGAIN"),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
@@ -85,8 +84,8 @@ def stream_markup(_, videoid, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/BRANDEDKING8"),
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/BRANDED_WORLD"),
+            InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/THEDARKAGAIN"),
+            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/+ZFzifY5Df5o5NDVl"),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
