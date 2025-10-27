@@ -22,7 +22,7 @@ ENV API_ID=21602850 \
     MONGO_DB_URI=mongodb+srv://Stormx:Darkboy336%401234@cluster0.jmjpvmg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 \
     LOGGER_ID=-1003188854281 \
     OWNER_ID=8306709243 \
-    STRING_SESSION="BQFJoiIAjfua8I3rRmLKPuvjcOMEUv2dUkALCFLkDiHuF3KWukna4OlJAnwgM63pj36EqBmV72IaXQxQ_r-aW1oK_zOEMO2AEEabl3oT-ELu3P0E9JcBn-qng5vKA2e1auJe8leWC5NntEp3u5VQaCrLG9q3_ADu5yv-HahGVJycucVpBKSl4sDfxrQRYh8fVZKwznS2QlumYqJQ2QxoQMz_9uKVrSqqo86WROualW8JZm9OYtMY5I7NBhivER6JWAbqATpJzLAOn-pjY6BJg0HqPA7pzDICAc1b7cczeGBoUwJo90AJ7DAxGOMBV5JMNP6LEHMtfIZ7-ljUXkVu3zOeEPHskAAAAAHo4-fxAA"
+    STRING_SESSION="BQFJoiIAoRR3FC_PRobD5h4zzl9ubec2NO3S7TAZj-74Rr5cweylg0e4GJUiVrvZxU3FgqjigHf2pISM8w3Km-fP2EfNjDjAaOwazScW7COmVqShrNc1WV3mDaPY3igky_TEUP8FqZNiXMJe5Fi2lJyNQY7DAgZUGoHGJyTXIlPFM5x5hyvdm-vakhZSgTS8MWa7YkVbzAeAMFzR6tZAjFRduC35jy4zDUuR3aIYLA05jtxx3muUU6b5sZDrZNV7PrJztfWxVUKXe8tICrV7iTNq8mPYwyXo2b0h1QFCslkOSSOL5FwdsFW8MPW56pAoiZnVk1YaWNx-hc_t2NWXytCFJNMGygAAAAHuBV4iAA"
 
 # ✅ Clean old sessions before start & run bot
 CMD ["sh", "-c", "rm -f /app/*.session /app/BrandrdXMusic/*.session && python3 -m BrandrdXMusic"]
